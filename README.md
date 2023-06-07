@@ -6,3 +6,5 @@
 # a running version of it is on replit [https://replit.com/@kimkirui/golang-email#main.go]
 
 # The best testing tool to test this api is at [https://app.reqbin.com/#/project/226ecd11b8993]
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/golang-rest-api)
